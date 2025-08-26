@@ -8,6 +8,11 @@
 ---
 
 ## 💼 Experience
+🛡️ ST2I — DevSecOps Intern (Jun 2025–Sep 2025)
+🚀 Deployed Spring Boot microservices on OpenShift using Helm and RBAC, reducing deployment time by 87% across 3 environments
+🔒 Improved SonarQube security score by 35% through secure CI/CD practices
+⚙️ Implemented GitOps with ArgoCD and built a CI/CD pipeline integrating GitLab, Trivy, SonarQube, Prometheus, and Grafana
+📊 Achieved 99.5% uptime and 95% vulnerability detection pre-production
 
 **🔧 SOCOOPEC — DevOps Engineering Intern (June–July 2024)**  
 - ✅ Developed secure Spring Boot REST APIs with JWT, documented via Swagger  
