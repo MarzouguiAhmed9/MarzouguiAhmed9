@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Ahmed Marzougui</h1>
-<p>🎓 4th-year engineering student in IT Infrastructure & Cloud Technologies at ESPRIT, Tunisia</p>
-<p>🌥️ Passionate about Cloud and DevOps — seeking a summer internship to grow in automation, deployment & infrastructure</p>
+<p>🎓  Final-year engineering student in IT Infrastructure & Cloud Computing, seeking a 6-month full-time graduation internship
+ in Cloud/DevOps starting December 2025. Proficient in Kubernetes, CI/CD, Terraform, and AWS. Motivated, adaptable, and
+ eager to contribute to cloud-native environments.</p>
 
 📫 **Contact**: ahmed.marzougui@esprit.tn  
 🔗 [LinkedIn](https://www.linkedin.com/in/MarzouguiAhmed9) — [GitHub](https://github.com/MarzouguiAhmed9) — 📞 +216 58911742
