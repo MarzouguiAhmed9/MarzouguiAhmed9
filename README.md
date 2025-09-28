@@ -26,7 +26,9 @@
 
 ## 👤 Profile
 
-Final-year engineering student in **IT Infrastructure & Cloud Computing**, seeking a **6‑month full-time graduation internship (Cloud / DevOps) starting December 2025**. Passionate about platform engineering, infrastructure automation, secure software supply chains, GitOps, and observability-driven operations. Experienced in building resilient delivery pipelines, container platforms, and standardized cloud architectures.
+Final-year Engineering student in IT Infrastructure and Cloud Computing, seeking a 6-month internship starting January
+2026. Skilled in automating CI/CD pipelines, cloud infrastructure, microservices, and ML workflows, with a proven focus on
+building secure, reliable, and scalable systems that optimize project lifecycles and drive operational efficiency
 
 - 📍 Tunis, Tunisia  
 - 📱 +216 58 911 742  
