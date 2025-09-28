@@ -88,6 +88,8 @@ building secure, reliable, and scalable systems that optimize project lifecycles
 | **Spring Boot on ECS Fargate** | Managed microservice runtime. | Zero-downtime releases & scaling. | ECS Fargate · CodePipeline |
 | **Node.js K8s CI/CD** | Quality-focused delivery flow. | Faster feedback, fewer regressions. | Jenkins · K8s · Docker |
 | **CI/CD Pipeline Optimization** | Build throughput improvements. | Deploys **<5 min**, manual ↓30%. | Jenkins · Caching · Telemetry |
+| **Spam Detection ML Pipeline (DVC)** | Reproducible end-to-end ML workflow for spam classification. | Faster iteration; deterministic experiments; safe deployment readiness. | DVC · dvclive · Python · S3 · MLOps |
+| **Service Health Checker API** | Lightweight active monitoring & metrics exposure. | Real-time visibility & rapid incident detection. | Go · Prometheus · Grafana · Docker |
 
 ---
 
